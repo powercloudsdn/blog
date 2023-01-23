@@ -1,6 +1,8 @@
 ---
 title: Infrastructure IP Addresses, Ports and FQDN's
 description: This is a list of resources that we make use of to securely deliver our services to thousands of MikroTik routers and users over the internet.
+banner:
+date: 2022-12-02
 ---
 
 ## Anycast Addresses
