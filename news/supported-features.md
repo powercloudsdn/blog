@@ -1,5 +1,5 @@
 ---
-title: Supported Feature
+title: Supported Features
 description: This page is the quickest way to see what features are currently support
 banner:
 date: 2023-02-05
